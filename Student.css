@@ -1,0 +1,144 @@
+.student{
+    width:100%;
+    overflow-x: hidden;
+    
+}
+.student_header{
+    align-items: center;
+    border: 1px solid black;
+}
+
+.student_person{
+    margin: auto;
+    display: flex;
+    width: 11%;
+    text-align: center;
+    margin-right: 0;
+    align-items: center;
+    margin-top: -3.5rem;
+}
+.bell_icon{
+    object-fit: contain;
+    height: 15px;
+    padding-right: 15px;
+
+}
+.person_name{
+    
+    padding-left: 2px;
+}
+.person_icon{
+    object-fit: contain;
+    height: 15px;
+}
+.student_logo{
+     border: 1px solid black;
+     margin-left: 10px;
+     height: 10px;
+     text-align: center;
+     margin-top: 10px;
+     width: 12%;
+     font-size: 15px;
+     padding-bottom: 15px;
+     padding-top:5px;
+     } 
+     .left_table{
+         width: 25%;
+     }
+     
+     .left_table .table1 ,tr,td{
+        border: 1px solid green;
+        border-collapse: collapse;
+        padding: 5px;
+        padding-right: 80px;
+        font-size: 12px;
+        height: 16px;
+        
+        
+        
+     }
+     .right_sides{
+         display: flex;
+     }
+    .right_side{
+        width: 140%;
+    }
+     
+     .right_sides > div{
+        margin: 15px;
+        padding: 5px;
+        width: 10%;
+        font-size: 12px;
+    
+        border: 1px solid black;
+     }
+     .student_table{
+         display: flex;
+         border: 1px solid black;
+         border-top: 1px;
+     }
+     .right_sides .search{
+         background-color: lightgrey;
+         padding: 5px;
+         margin: 15px;
+         margin-left: 80px;
+         align-items: center;
+         width: 10%;
+     }
+    
+    
+    .table,select{
+        
+            border: 0px;
+            outline: 0px;
+        
+    }
+    .link_second{
+        text-decoration: none;
+        color: black;
+        border: none;
+        
+        
+    }
+    .link_first{
+        background-color: skyblue;
+    }
+    
+    
+    .tabled ,td,tr,th{
+        border: 1px solid black;
+        border-collapse: collapse;
+    
+        }
+        .tabled{
+            padding: 5px;
+            margin-left:15px;
+            
+        
+        }
+        
+        
+        
+        .table3 a{
+            font-size: 12px;
+            text-decoration: none;
+            padding: 8px;
+            
+        }
+        .table3{
+           margin-left: 350px;
+           
+        }
+        .buttons1{
+            margin-left: 12px;
+            margin-top: 15px;
+            background-color: lightgray;
+        }
+        .buttons1 img{
+            object-fit: contain;
+            height: 15px;
+            border: none;
+            padding-left: 5px;
+        }
+       
+     
